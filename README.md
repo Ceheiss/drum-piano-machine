@@ -1,4 +1,4 @@
-# Drum Machine
+# Drum-Piano Machine
 
 ### This is a project developed for Free Code Camp in the Front End challenges. You can try the live version [here] (https://codepen.io/ceheiss/full/WNQgWbM) as it is in CodePen.
 
