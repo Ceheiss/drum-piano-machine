@@ -1,0 +1,8 @@
+.DrumPadList {
+  border: 7px solid orange;
+  border-radius: 8px;
+  display: grid;
+  grid-template: repeat(3, 1fr)/repeat(3, 1fr);
+  width: 250px;
+  height: 250px;
+}
